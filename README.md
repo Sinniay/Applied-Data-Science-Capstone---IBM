@@ -5,5 +5,6 @@
 ### 2. Data Wrangling
 ### 3. Exploratory Data Analysis Using SQL
 ### 4. Exploratory Data Analysis Using Pandas and Matplotlib
-### 5. Interactive Visual Analytics and Dashboards
-### 6. Predictive Analysis
+### 5. Interactive Visual Analytics (Follium)
+### 6. Interactive Visual Analytics (Dash)
+### 7. Predictive Analysis
